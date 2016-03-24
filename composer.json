@@ -6,7 +6,7 @@
         "silverstripe",
         "forms"
     ],
-    "homepage": "http://github.com/sheadawson/silverstripe-quickaddnew",
+    "homepage": "https://github.com/sheadawson/silverstripe-quickaddnew",
     "authors": [
         {
             "name": "Shea Dawson",
@@ -19,5 +19,8 @@
     },
     "replace": {
         "silverstripe/quickaddnew": "*"
+    },
+    "support": {
+        "issues": "https://github.com/sheadawson/silverstripe-quickaddnew/issues"
     }
 }
